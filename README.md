@@ -1,5 +1,5 @@
 ## EX.NO:1
-## DATE:17.323
+## DATE:17.3.23
 # Simulation and Manual PCB Layout
 
 ### AIM
